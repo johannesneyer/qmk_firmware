@@ -22,4 +22,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define DEVICE_VER      0x0002
 
+#define PERMISSIVE_HOLD
+#define TAPPING_TERM 170
+#define IGNORE_MOD_TAP_INTERRUPT
+#define TAPPING_FORCE_HOLD
+
+#define LAYER_STATE_8BIT
+
 #endif
