@@ -1,0 +1,4 @@
+#define LAYER_STATE_8BIT
+#define PERMISSIVE_HOLD
+#define TAPPING_TERM 200
+#define QUICK_TAP_TERM 0
