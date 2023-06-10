@@ -2,3 +2,7 @@
 #define PERMISSIVE_HOLD
 #define TAPPING_TERM 200
 #define QUICK_TAP_TERM 0
+
+/* #define NO_AUTO_SHIFT_ALPHA */
+/* #define AUTO_SHIFT_TIMEOUT TAPPING_TERM */
+/* #define AUTO_SHIFT_NO_SETUP */
